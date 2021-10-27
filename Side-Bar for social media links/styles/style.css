@@ -1,0 +1,61 @@
+/* Following 2 id's will help you manipulate the size of your side-bar */
+
+#social-links{
+    position: fixed;
+    top: 30vh;
+    height: 210px;
+    width: 40px;
+}
+
+#social-links img{
+    padding: 5px;
+    height: 30px;
+    width: 30px;
+
+}
+
+/* following will help you change background colors */
+#link-facebook{
+    background-color: #3b5998;
+}
+#link-facebook:hover{
+    background-color: #2d4373;
+}
+
+#link-linkedin{
+    background-color: #0077b5;
+}
+#link-linkedin:hover{
+    background-color: #00121c;
+}
+
+#link-whatsapp{
+    background-color: #6ba92f          ;
+}
+#link-whatsapp:hover{
+    background-color: #528124;
+}
+
+#link-twitter{
+    background-color: #83c3f3;          ;
+}
+#link-twitter:hover{
+    background-color: #55acee;
+}
+
+#link-mail{
+    background-color:#ed4926          ;          ;
+}
+#link-mail:hover{
+    background-color: #cf3311;
+}
+
+
+#link-discord{
+    padding-top: 2px;
+    background-color: #7289DA;
+}
+#link-discord:hover{
+    padding-top: 2px;
+    background-color: #00121c;
+}
