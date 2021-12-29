@@ -59,3 +59,13 @@
     padding-top: 2px;
     background-color: #00121c;
 }
+
+
+#link-github{
+    padding-top: 1px;
+    background-color: #666666;
+}
+#link-github:hover{
+    padding-top: 1px;
+    background-color: #333333;
+}
