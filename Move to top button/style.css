@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+  }
+
 #move-top {
     display: none;
     position: fixed;
