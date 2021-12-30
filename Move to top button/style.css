@@ -2,9 +2,16 @@ html {
     scroll-behavior: smooth;
   }
 
+#move-top img{
+    height: 30px;
+    width: 30px;
+}  
+
 #move-top {
     display: none;
     position: fixed;
+    height: 50px;
+    width: 50px;
     right: 40px;
     bottom: 40px;
     z-index: 99;
@@ -17,8 +24,8 @@ html {
     background-color: #0F9D58;
     color: white;
     font-size: 20px;
-
-
+    border-radius: 50%;
+    box-shadow: 3px 3px 3px  white;
 }
 
 #move-top:hover{
